@@ -1,7 +1,7 @@
 title: Mapping Fast Disaster
 description: UCI Anthro 25A 
 
-url: https://timschuetz.github.io/long-haul/
+url: https://timschuetz.github.io/fast-disaster
 baseurl: "/long-haul"
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -14,15 +14,17 @@ paginate: 5
 navigation:
  - title: Home
    url: /index.html
+ - title: RMP Facilities
+   url: /rmp
+ - title: Ammonium Nitrate
+   url: /ammonium-nitrate
  - title: About
    url: /about
- - title: Contact
-   url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: tmschtz
+   twitter: enviroinjustice
+   facebook: 
+   email: tschuetz@uci.edu
 
 google_analytics: "UA-58263416-1"
